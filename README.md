@@ -23,4 +23,4 @@ $ cd sans
 $ python2 sans.py
 
 
-#*Sedang Update Tod*#
+#*Sedang Update Tod*
