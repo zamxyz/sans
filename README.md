@@ -21,3 +21,6 @@ $ git clone https://github.com/zamxyz/sans
 $ cd sans
 
 $ python2 sans.py
+
+
+#*Sedang Update Tod*#
