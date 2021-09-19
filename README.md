@@ -23,6 +23,8 @@ $ git clone https://github.com/zamxyz/sans
 
 $ cd sans
 
+$ git pull
+
 $ python2 sans.py
 
 
