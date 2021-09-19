@@ -17,7 +17,7 @@ $ pip2 install bs4
 
 $ pip2 install futures
 
-# RUN
+# 》RUN
 
 $ git clone https://github.com/zamxyz/sans
 
